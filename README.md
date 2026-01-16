@@ -1,6 +1,6 @@
 # Portfolio
-Portfolio personal de desarrollo web
-# Portfolio Personal – Carolina Caucino
+
+# Portfolio personal de desarrollo web – Carolina Caucino
 
 Este repositorio contiene mi portfolio personal, donde muestro algunos de mis proyectos, mis conocimientos y un poco sobre mí.
 
