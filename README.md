@@ -1,10 +1,8 @@
-# Portfolio
-
 # Portfolio personal de desarrollo web – Carolina Caucino
 
 Este repositorio contiene mi portfolio personal, donde muestro algunos de mis proyectos, mis conocimientos y un poco sobre mí.
 
-La idea de este portfolio es tener un espacio propio para presentar lo que voy aprendiendo, practicar desarrollo web y reflejar mi crecimiento como desarrolladora.
+La idea de este portfolio es tener un espacio propio para presentar lo que voy aprendiendo, practicar y reflejar mi crecimiento como desarrolladora.
 
 ---
 
